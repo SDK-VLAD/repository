@@ -1,0 +1,122 @@
+{"Timetable":[
+  {
+    "number" : "855-об",
+    "group_id" : "1101",
+    "id" : "152",
+    "weekday" : "3",
+    "week" : "2",
+    "discipline" : "Проектирование информационных систем",
+    "teacher" : "Бушманов Александр Вениаминович",
+    "subgroup" : "0",
+    "classroom" : "333 (1)",
+    "lesson_order" : "1"
+  },
+  {
+    "number" : "855-об",
+    "group_id" : "1101",
+    "id" : "152",
+    "weekday" : "3",
+    "week" : "1",
+    "discipline" : "Основы САПР",
+    "teacher" : "Бушманов Александр Вениаминович",
+    "subgroup" : "0",
+    "classroom" : "323 (1)",
+    "lesson_order" : "1"
+  },
+  {
+    "number" : "855-об",
+    "group_id" : "1101",
+    "id" : "152",
+    "weekday" : "2",
+    "week" : "0",
+    "discipline" : "Проектирование информационных систем",
+    "teacher" : "Бушманов Александр Вениаминович",
+    "subgroup" : "0",
+    "classroom" : "323 (1)",
+    "lesson_order" : "1"
+  },
+  {
+    "number" : "855-об",
+    "group_id" : "1101",
+    "id" : "152",
+    "weekday" : "1",
+    "week" : "0",
+    "discipline" : "Основы САПР",
+    "teacher" : "Бушманов Александр Вениаминович",
+    "subgroup" : "1",
+    "classroom" : "324а (1)",
+    "lesson_order" : "1"
+  },
+  {
+    "number" : "855-об",
+    "group_id" : "1101",
+    "id" : "152",
+    "weekday" : "3",
+    "week" : "0",
+    "discipline" : "Технические средства защиты информации",
+    "teacher" : "Батурин Дмитрий Сергеевич",
+    "subgroup" : "0",
+    "classroom" : "438 (1)",
+    "lesson_order" : "2"
+  },
+  {
+    "number" : "855-об",
+    "group_id" : "1101",
+    "id" : "152",
+    "weekday" : "2",
+    "week" : "0",
+    "discipline" : "Проектирование информационных систем",
+    "teacher" : "Бушманов Александр Вениаминович",
+    "subgroup" : "0",
+    "classroom" : "333 (1)",
+    "lesson_order" : "2"
+  },
+  {
+    "number" : "855-об",
+    "group_id" : "1101",
+    "id" : "152",
+    "weekday" : "1",
+    "week" : "0",
+    "discipline" : "Основы САПР",
+    "teacher" : "Бушманов Александр Вениаминович",
+    "subgroup" : "2",
+    "classroom" : "324а (1)",
+    "lesson_order" : "2"
+  },
+  {
+    "number" : "855-об",
+    "group_id" : "1101",
+    "id" : "152",
+    "weekday" : "3",
+    "week" : "1",
+    "discipline" : "Технические средства защиты информации",
+    "teacher" : "Батурин Дмитрий Сергеевич",
+    "subgroup" : "0",
+    "classroom" : "323 (1)",
+    "lesson_order" : "3"
+  },
+  {
+    "number" : "855-об",
+    "group_id" : "1101",
+    "id" : "152",
+    "weekday" : "2",
+    "week" : "0",
+    "discipline" : "Организационное и правовое обеспечение безопасности информационных систем",
+    "teacher" : "Самохвалова Светлана Геннадьевна",
+    "subgroup" : "0",
+    "classroom" : "331 (1)",
+    "lesson_order" : "3"
+  },
+  {
+    "number" : "855-об",
+    "group_id" : "1101",
+    "id" : "152",
+    "weekday" : "1",
+    "week" : "0",
+    "discipline" : "Организационное и правовое обеспечение безопасности информационных систем",
+    "teacher" : "Самохвалова Светлана Геннадьевна",
+    "subgroup" : "0",
+    "classroom" : "331 (1)",
+    "lesson_order" : "3"
+  }
+] }
